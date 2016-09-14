@@ -1,0 +1,18 @@
+git-scm.com/downloads   //Download git program
+
+//Linux
+$ ssh-keygen -t rsa  //Encript for acess git
+//Enter password and username
+//The encripted key was created
+
+id_rsa //Sign comprove
+
+$ cat id_rsa //Show the key of the machine for copy or distribution (copy it and pass on the github.com)
+
+$ git push //After modification, add to repository 
+$ git pull //Needs to pull the file if someone edited it before
+
+$ git commit -m "description of modifications" // -m -> add a description for the updated file
+
+//Download Doxygen
+doxywizard //Tools for edition
